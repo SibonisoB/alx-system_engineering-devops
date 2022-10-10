@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head | sort --version-sort
+ls -lt | head | sort --month-sort

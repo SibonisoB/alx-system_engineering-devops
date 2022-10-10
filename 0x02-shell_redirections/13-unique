@@ -1,0 +1,11 @@
+#!/bin/bash
+echo {abel,\
+	take,\
+	bee,\
+	ace,\
+	coo,\
+	keepe,\
+	abel,\
+	acer,\
+	coo}>xfile | sort xfile | uniq -u
+
