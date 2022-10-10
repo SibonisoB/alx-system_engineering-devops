@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "^">eye
-echo "0">>eye
-echo "\"($((eye))o)'"
+echo "\"(^0o)'"
